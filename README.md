@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi there 👋, I'm Sumith
 
-<!--
-**sumith444/sumith444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer | 🌱 Currently learning AI & Cloud Technologies | 🚀 Passionate about Automation & Open Source | 📍 Based in Bangladesh
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 About Me
+- 🔭 Currently working on exciting projects and sharpening my software development skills.
+- 🌱 Deepening my knowledge in **Python, AI, and software architecture**.
+- 🎯 Looking to collaborate on open-source projects.
+- ⚡ Fun fact: I love breaking down complex problems into clean, structured code.
+
+---
+
+### 🛠️ Tech Stack & Skills
+- **Languages:** Python, C++, JavaScript
+- **Frontend & Web:** HTML, CSS
+- **Tools & Workflow:** Git, GitHub, Python Automation Libraries
+
+---
+
+### 📬 Connect with Me
+- **LinkedIn:** [ Profile](https://linkedin.com/my-username)
+- **Portfolio / Website:** [ Portfolio Link](https://mywebsite.com)
+- **Email:** my.email@example.com
